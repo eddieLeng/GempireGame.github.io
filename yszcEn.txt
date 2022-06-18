@@ -1,0 +1,14 @@
+This studio <gempire> attaches great importance to the protection of users' privacy. Before you use the services provided by this game, please read the following statement carefully.
+The information obtained during your use of the service will collect information about your device and how you and your device interact with gempire studio products and services. Such information includes:
+1. equipment and application information. Such as device name, device ID, device activation time, application version, device and application settings, etc.
+2. log information. When you use the service or view the content provided by us, we will automatically collect some information and store it in the log, such as service access time, access times, access IP, event information, etc.
+3. location information. When accessing some location-based services, it will collect, use and process the fuzzy or accurate location of your device. These location information can be obtained through GPS WLAN and the network ID of the service provider.
+We strictly abide by the provisions of laws and regulations and the agreement with users, and use the collected information for the following purposes. If we use your information beyond the following purposes, we will explain to you again and obtain your consent.
+1. meet your personalized needs. For example, language setting, location setting, personalized help services
+2. product development and service optimization. For example, when our system fails, we will record and analyze the information generated when the system fails to optimize our services.
+3. evaluate and improve the effect of our promotion and promotion activities
+Revision of privacy policy:
+This game will modify the privacy policy from time to time. If there is any change in the user's personal information policy, we will notify the user in time.
+Problems and suggestions:
+If you have any other questions and suggestions, please let us know.
+eddieleng@qq.com
